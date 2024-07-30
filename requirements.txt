@@ -1,3 +1,5 @@
-opencv-python-headless numpy
+opencv-python-headless
+numpy
 rembg
 pillow
+Streamlit
